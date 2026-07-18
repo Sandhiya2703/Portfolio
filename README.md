@@ -54,7 +54,7 @@ Add screenshots of your portfolio here.
 
 * **Name:** Sandhiya
 * **Email:** sandhiya27sandhiya2006@gmail.com
-* **LinkedIn:**sandhiya-v-it-461a262b2
+* **LinkedIn:https://sandhiya-v-it-461a262b2
 * **GitHub:** https://github.com/Sandhiya2703
 
 ---
